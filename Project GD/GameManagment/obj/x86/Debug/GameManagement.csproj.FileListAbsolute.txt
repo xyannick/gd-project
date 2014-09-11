@@ -41,3 +41,4 @@ C:\Users\bpijls\Desktop\TentamenStart\GameManagement\bin\Windows\Debug\SharpDX.D
 C:\Users\bpijls\Desktop\TentamenStart\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
 C:\Users\bpijls\Desktop\TentamenStart\GameManagement\obj\x86\Debug\GameManagement.exe
 C:\Users\bpijls\Desktop\TentamenStart\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\Users\mulde_000\Documents\gd-project\Project GD\GameManagment\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
