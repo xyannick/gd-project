@@ -35,24 +35,11 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <Compile Include="Character.cs" />
-    <Compile Include="EnemyStatic.cs" />
-    <Compile Include="Game1.cs" />
-=======
     <Compile Include="Game1.cs" />
     <Compile Include="GameObjects\Tile.cs" />
     <Compile Include="GameObjects\TileField.cs" />
     <Compile Include="Level\Level.cs" />
     <Compile Include="Level\LevelLoading.cs" />
->>>>>>> 79062ed69eca7aa14fc2d2afe6c4a44b9ba03db1
-=======
-    <Compile Include="EnemyDynamic.cs" />
-    <Compile Include="EnemyStatic.cs" />
-    <Compile Include="Game1.cs" />
-    <Compile Include="Player.cs" />
->>>>>>> origin/New_Classes
     <Compile Include="PlayingState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

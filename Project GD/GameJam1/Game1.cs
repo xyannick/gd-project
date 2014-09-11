@@ -30,22 +30,12 @@ namespace GameJam1
         protected override void LoadContent()
         {
             base.LoadContent();
-<<<<<<< HEAD
-            screen = new Point(1280, 720);
-            this.SetFullScreen(true);
-            this.IsMouseVisible = true;
-
-            gameStateManager.AddGameState("playingState", new PlayingState(Content));
-
-            gameStateManager.SwitchTo("playingState");
-=======
             screen = new Point(640, 640);
-
+            this.SetFullScreen(true);
             //Add gamestates
             gameStateManager.AddGameState("playingState", new PlayingState());
             gameStateManager.SwitchTo("playingState");
             //Start gamestate
->>>>>>> 79062ed69eca7aa14fc2d2afe6c4a44b9ba03db1
         }
     }
 }
