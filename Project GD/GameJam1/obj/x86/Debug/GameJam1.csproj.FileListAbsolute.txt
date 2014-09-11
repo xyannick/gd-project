@@ -81,3 +81,5 @@ C:\School\PGD\GameJam\Project GD\GameJam1\bin\Windows\Debug\SharpDX.Direct3D9.xm
 C:\School\PGD\GameJam\Project GD\GameJam1\bin\Windows\Debug\Content\Sprites\TileSprites\spr_ground.png
 C:\School\PGD\GameJam\Project GD\GameJam1\bin\Windows\Debug\Content\Sprites\TileSprites\spr_wall.png
 C:\School\PGD\GameJam\Project GD\GameJam1\bin\Windows\Debug\Content\Levels\level1.txt
+C:\Users\mulde_000\Documents\gd-project\Project GD\GameJam1\obj\x86\Debug\GameJam1.exe
+C:\Users\mulde_000\Documents\gd-project\Project GD\GameJam1\obj\x86\Debug\GameJam1.pdb
