@@ -52,3 +52,5 @@ C:\Users\Sly\Dropbox\Project Game Development\GameJam1\GameJam1\bin\Windows\Debu
 C:\Users\Sly\Dropbox\Project Game Development\GameJam1\GameJam1\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Users\Sly\Dropbox\Project Game Development\GameJam1\GameJam1\bin\Windows\Debug\SharpDX.Direct3D9.xml
 C:\Users\Sly\Dropbox\Project Game Development\GameJam1\GameJam1\obj\x86\Debug\GameJam1.csprojResolveAssemblyReference.cache
+C:\School\PGD\GameJam\Project GD\GameJam1\obj\x86\Debug\GameJam1.exe
+C:\School\PGD\GameJam\Project GD\GameJam1\obj\x86\Debug\GameJam1.pdb
