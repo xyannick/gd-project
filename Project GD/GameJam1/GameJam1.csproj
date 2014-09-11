@@ -35,9 +35,10 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Character.cs" />
+    <Compile Include="EnemyDynamic.cs" />
     <Compile Include="EnemyStatic.cs" />
     <Compile Include="Game1.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="PlayingState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
