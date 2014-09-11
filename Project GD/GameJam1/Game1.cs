@@ -30,10 +30,11 @@ namespace GameJam1
         protected override void LoadContent()
         {
             base.LoadContent();
-            screen = new Point(600, 600);
+            screen = new Point(640, 640);
 
             //Add gamestates
-
+            gameStateManager.AddGameState("playingState", new PlayingState());
+            gameStateManager.SwitchTo("playingState");
             //Start gamestate
         }
     }
